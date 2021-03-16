@@ -66,7 +66,7 @@
 
 
 Предложенные участниками хардатона [инженерные решения](https://disk.yandex.ru/d/2TbB8SSM4a6jsw?w=1) по разработке захвата и защиты на квадрокоптер  
-[Видео](https://disk.yandex.ru/d/6kNI1smfWhWYXA?w=1) с полётной зоны  
+[Видео](https://disk.yandex.ru/d/6kNI1smfWhWYXA?w=1) о команде и с полётной зоны  
 ## Освещение мероприятия в СМИ:  
 https://nsknews.info/materials/kviddich-na-kvadrokopterakh-ustroili-v-novosibirskoy-shkole/  (городской новостной сайт)  
 http://www.nios.ru/news/24302 (сайт департамента мэрии города Новосибирска)  
